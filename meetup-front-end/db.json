@@ -39,6 +39,14 @@
       "email": "kaylee@serenity.com",
       "shirt": "S",
       "skillLevel": "expert"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Song",
+      "email": "captain@serenity.com",
+      "shirt": "L",
+      "skillLevel": "intermediate",
+      "id": 6
     }
   ]
 }
